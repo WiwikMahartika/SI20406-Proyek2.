@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "719178367475",
+    "project_id": "dompetku-cd0ad",
+    "storage_bucket": "dompetku-cd0ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719178367475:android:88e1654e4ca11f1a421286",
+        "android_client_info": {
+          "package_name": "com.example.dompetku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719178367475-fgip6a8prera8hfe4urs5npvicdmq4uf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dompetku",
+            "certificate_hash": "4922982a3d365c42879a32a7b63c3e160d718d23"
+          }
+        },
+        {
+          "client_id": "719178367475-jn134vdrtsc7rvd521bmltmsrnkd07u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMvxgrPPFTZEzllvzJ_AL6e4I_G1MjHqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719178367475-jn134vdrtsc7rvd521bmltmsrnkd07u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
